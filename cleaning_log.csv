@@ -1,0 +1,5 @@
+step,rows_remaining,rows_removed_this_step
+Raw rows,541909,0
+Drop rows missing required fields,406829,135080
+Remove cancellation invoices (InvoiceNo starts C),397924,8905
+Keep positive quantities and prices,397884,40
